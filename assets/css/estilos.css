@@ -41,3 +41,7 @@ body {
 .my-5 {
   color: rgb(8, 4, 65);
 }
+
+.titulo {
+  font-family: sans-serif;
+}
