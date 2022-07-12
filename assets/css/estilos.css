@@ -46,3 +46,7 @@ body {
 .titulo {
   font-family: sans-serif;
 }
+
+.fondo-color {
+  color: rgb(8, 4, 65);
+}
